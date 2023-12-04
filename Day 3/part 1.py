@@ -30,7 +30,7 @@ Of course, the actual engine schematic is much larger. What is the sum of all of
 '''
 
 import re
-file1 = open('Day 3 input', 'r')
+file1 = open('Input', 'r')
 
 lines = file1.readlines()
 
