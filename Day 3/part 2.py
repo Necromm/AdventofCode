@@ -28,7 +28,7 @@ What is the sum of all of the gear ratios in your engine schematic?
 '''
 import re
 
-file1 = open('Day 3 input', 'r')
+file1 = open('Input', 'r')
 
 lines = file1.readlines()
 
