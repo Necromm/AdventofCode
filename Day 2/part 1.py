@@ -26,7 +26,7 @@ In the example above, games 1, 2, and 5 would have been possible if the bag had 
 Determine which games would have been possible if the bag had been loaded with only 12 red cubes, 13 green cubes, and 14 blue cubes. What is the sum of the IDs of those games?
 '''
 
-file1 = open('Day 2 Input', 'r')
+file1 = open('Input', 'r')
 
 lines = file1.readlines()
 #                 R , G , B
