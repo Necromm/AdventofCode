@@ -34,7 +34,7 @@ So, in this example, the Elf's pile of scratchcards is worth 13 points.
 Take a seat in the large pile of colorful cards. How many points are they worth in total?
 '''
 
-file = open('AoCInput', 'r')
+file = open('Input', 'r')
 
 lines = file.readlines()
 totalPoints = 0
