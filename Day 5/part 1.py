@@ -1,5 +1,5 @@
 import math
-file = open('Day 5 Input', 'r')
+file = open('Input', 'r')
 
 lines = file.readlines()
 
