@@ -25,7 +25,7 @@ import re
 
 SORT_ORDER = 'AKQT98765432J'
 
-file = open('AoCInput', 'r')
+file = open('Input', 'r')
 
 lines = file.readlines()
 
